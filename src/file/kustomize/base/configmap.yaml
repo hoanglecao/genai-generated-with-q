@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: file-configmap
-data:
-  TZ: Asia/Ho_Chi_Minh
